@@ -35,6 +35,21 @@ background-color: purple;
 font-family: 'Syne Mono', monospace;
 
  }
-
+ header {
+  padding: 5%;
+  background-image: url(/fon.jpg);
+ height: 100vh;
+ background-repeat: no-repeat;
+ color: white;
+ background-size: cover;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ 
+ }
+header h1 {
+  margin-top:0;
+}
 
  
